@@ -75,6 +75,14 @@ Welcome to the EstateAgency website! This project is designed to offer a visuall
 - **Informative Content**: Sections like Services, Latest Properties, Agents, News, and Testimonials provide valuable information to users.
 - **Social Media Integration**: Links to social media platforms improve user engagement and SEO.
 
+## ScreenShot
+![1](https://github.com/user-attachments/assets/736f80ae-7ec7-49f0-8549-075d7300f688)
+![2](https://github.com/user-attachments/assets/db1c7fdf-5f41-43bd-bc39-ff48714b023c)
+![3](https://github.com/user-attachments/assets/3a82e2fe-ac13-45d0-8e4e-bd8547e39dfc)
+![4](https://github.com/user-attachments/assets/2ab10ea6-8597-4cd5-8046-707234935abc)
+![5](https://github.com/user-attachments/assets/ee33e10e-afc4-4af2-82d7-f2a4da442cd7)
+![6](https://github.com/user-attachments/assets/bfd76b16-ab69-48d4-aa6a-62d1dd1aca31)
+ 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact us at:
 
